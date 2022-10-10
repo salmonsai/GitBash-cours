@@ -1,1 +1,1 @@
-# GitBash-cours
+# GitBash-course
